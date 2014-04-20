@@ -1,4 +1,11 @@
-
+######################################################################
+##
+##                     -- cachematrix.R --
+## This file have two functions a makecacheMatrix that stores
+##  a matrix inverse
+##  and a inverse function
+##
+#######################################################################
 
 ##
 ## makeCacheMatrix function:
